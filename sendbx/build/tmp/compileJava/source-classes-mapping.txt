@@ -1,2 +1,2 @@
-MyFirstProgram.java
- MyFirstProgram
+l2r/sndbx/Igor/MyFirstProgram.java
+ l2r.sndbx.Igor.MyFirstProgram
