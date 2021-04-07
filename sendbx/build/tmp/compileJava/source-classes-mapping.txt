@@ -1,10 +1,10 @@
-l2r/sndbx/Igor/Rectangle.java
- l2r.sndbx.Igor.Rectangle
-l2r/sndbx/Igor/MyFirstProgram.java
- l2r.sndbx.Igor.MyFirstProgram
-l2r/sndbx/Igor/Square.java
- l2r.sndbx.Igor.Square
 l2r/sndbx/Igor/Point.java
  l2r.sndbx.Igor.Point
 l2r/sndbx/Igor/PointRun.java
  l2r.sndbx.Igor.PointRun
+l2r/sndbx/Igor/Square.java
+ l2r.sndbx.Igor.Square
+l2r/sndbx/Igor/MyFirstProgram.java
+ l2r.sndbx.Igor.MyFirstProgram
+l2r/sndbx/Igor/Rectangle.java
+ l2r.sndbx.Igor.Rectangle

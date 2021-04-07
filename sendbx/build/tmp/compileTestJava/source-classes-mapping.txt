@@ -1,2 +1,4 @@
 l2r/sndbx/Igor/SquareTests.java
  l2r.sndbx.Igor.SquareTests
+l2r/sndbx/Igor/PointTests.java
+ l2r.sndbx.Igor.PointTests
